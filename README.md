@@ -32,7 +32,7 @@ The bridge will start on http://127.0.0.1:5005.
 
 Redirect the Claude CLI traffic to your local bridge:
 ```bash
-export ANTHROPIC_BASE_URL="[http://127.0.0.1:5005/v1](http://127.0.0.1:5005/v1)"
+export ANTHROPIC_BASE_URL="http://127.0.0.1:5005/v1"
 export ANTHROPIC_API_KEY="local"
 claude
 ```
