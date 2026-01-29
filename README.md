@@ -47,5 +47,5 @@ cargo test
 
 While the proxy is running, you can query live metrics:
 ```bash
-curl [http://127.0.0.1:5005/stats](http://127.0.0.1:5005/stats)
+curl http://127.0.0.1:5005/stats
 ```
