@@ -16,7 +16,7 @@ Built in Rust, it provides sub-millisecond overhead and real-time performance mo
 
 - [Rust](https://rustup.rs/) (Stable)
 - [LM Studio](https://lmstudio.ai/) running a local server (default: port 1234)
-- [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code) installed via npm
+- Claude code
 
 ## Quick Start
 
