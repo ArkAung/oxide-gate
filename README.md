@@ -22,7 +22,7 @@ Built in Rust, it provides sub-millisecond overhead and real-time performance mo
 
 ### 1. Build and Run Oxide-Gate
 ```bash
-git clone [https://github.com/arkaung/oxide-gate](https://github.com/your-username/oxide-gate)
+git clone https://github.com/arkaung/oxide-gate
 cd oxide-gate
 cargo run --release
 ```
